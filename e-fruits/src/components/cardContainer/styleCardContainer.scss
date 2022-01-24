@@ -1,0 +1,18 @@
+main {
+  margin-top: 30px;
+  width: 100%;
+  text-align: center;
+
+  h1 {
+    color: #1b512d;
+    text-transform: uppercase;
+  }
+
+  div.container-cards {
+    width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
